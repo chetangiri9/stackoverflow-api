@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CustomTable  /> should match snapshot 1`] = `
+<div
+  style="overflow: auto; display: flex; text-align: center;"
+>
+  <table>
+    <thead>
+      <tr>
+        <th
+          style="width: 0px;"
+        >
+          Author
+        </th>
+        <th
+          style="width: 0px;"
+        >
+          Title
+        </th>
+        <th
+          style="width: 0px;"
+        >
+          Creation Date
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td />
+        <td
+          style="text-align: left; height: 100px;"
+        />
+        <td />
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
